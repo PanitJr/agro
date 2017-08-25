@@ -1,0 +1,14 @@
+database-type: sql
+database-driver: postgres
+database-host: localhost
+database-port: 8080
+database-user: postgres
+database-password: password
+database-dbname: postgres
+database-connectTimeout: 10
+database-sslmode: disable
+
+application-name: agro
+application-host: localhost
+application-port: 8082
+application-home: ./data/otp/
